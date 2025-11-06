@@ -6,22 +6,22 @@ import { Card, CardContent } from "@/components/ui/card"
 
 const reviews = [
   {
-    name: "Jan Novák",
-    date: "Leden 2025",
+    name: "Michal Škultéty",
+    date: "před měsícem",
     rating: 5,
-    text: "Profesionální přístup, detailní dokumentace a skvělá komunikace. Náš rodinný dům je přesně takový, jak jsme si přáli.",
+    text: "jednal jsem s pani Outratovou a konzultoval jsem s ni muj zamer prestavby RD na bytove jednotky. Projekt je mensiho razu a tudiz jsme se dohodli, ze bude vyhodnejsi, kdyz kontaktuju mensiho projektanta. Pani Outratova byla tak hodna, ze mi poskytla kontakty na proverene projektanty. Timto ji chci velmi podekovat",
   },
   {
-    name: "Marie Svobodová",
-    date: "Únor 2025",
+    name: "Petr Turek",
+    date: "před 2 lety",
     rating: 5,
-    text: "Oceňuji především ekonomický přístup a databázi řemeslníků. Ušetřili jsme díky tomu statisíce korun.",
+    text: "Díky panu Machačovi se nám splnil sen o vlastním bydlení. Komunikace po celou dobu probíhala perfektně. Věci, které nám zpočátku připadali zbytečné nyní s odstupem času velmi oceňujeme. Šetříme energie a máme prostorné bydlení v blízkosti centra obce. Velmi doporučuji si sjednat schůzku a vyslechnout si pana Machače."  
   },
   {
-    name: "Petr Dvořák",
-    date: "Březen 2025",
+    name: "Martin Skřivánek",
+    date: "před 8 měsíci",
     rating: 5,
-    text: "Výborná spolupráce od začátku do konce. Projekt byl zpracován do nejmenších detailů a stavba proběhla bez problémů.",
+    text: "Oceňuji pana Machače za vstřícnou komunikaci a pomoc při zacílení na pro nás vhodného specialistu, když se naše poptávka dostatečně neprotínala s jeho službami."
   },
 ]
 
